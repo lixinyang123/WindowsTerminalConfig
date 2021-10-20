@@ -1,4 +1,4 @@
-# WindowsTerminalTheme
+# WindowsTerminalConfig
 
 My Windows Terminal settings.json
 
